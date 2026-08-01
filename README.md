@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Mubina;Data+Scientist+%7C+AI+Engineer;Fresher+Year;Building+Intelligent+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Mubina;Data+Scientist+%7C+AI+Engineer;Fresher;Building+Intelligent+Systems" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">🚀 Fresher| Data Science| AI |Python Developer| Hyderabad, India</h3>
@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **Final-year**student passionate about Data Science,Machine Learning $ AI**
+- 🎓 **Final-year**student passionate about Data Science,Machine Learning $ AI
 - 🐍 Strong foundation in python,SQL,Pandas & Numpy
 - 🧠 Learning AI Agents using LangChain,Langgraph & CrewAI
 - 📊 Building DataScience and Machine Learning Projects 
