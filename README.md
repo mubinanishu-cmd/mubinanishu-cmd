@@ -1,17 +1,17 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Mubina;Data+Scientist+%7C+AI+Engineer;Fresher;Building+Intelligent+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Mubina;Data+Scientist+%7C+DataAnalyst;Fresher;Building+Intelligent+Systems" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">🚀 Fresher| Data Science| AI |Python Developer| Hyderabad, India</h3>
+<h3 align="center">🚀 Fresher| Data Science|Python Developer| Hyderabad, India</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mubina&label=Profile%20views&color=0e75b6&style=flat" alt="Mubina" />
-  <img src="https://img.shields.io/badge/Fresher%2B%20Years-brightgreen?style=flat" />
-  <img src="https://img.shields.io/badge/Focus-AI%20Agents%20%26%20LLMs-blue?style=flat" />
+  <img src="https://img.shields.io/badge/Fresher-brightgreen?style=flat" />
+  <img src="https://img.shields.io/badge/Focus-DataScience%20&%20%26%20DataAnalyst-blue?style=flat" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-success?style=flat" />
 </p>
 <img align="right"alt="AI coding" width="380" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif"/>
----
+
 
 ## 👨‍💻 About Me
 
